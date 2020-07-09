@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e60d9a4b-e5de-4c65-9567-8178d78f4a4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ePFoREKvyl1TmIW01c5s1mCy2I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/bg-img" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/bg-img" />
+      <recent name="$PROJECT_DIR$/img/core-img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.mystic-tech">
+    <configuration name="mystic-tech" type="JavascriptDebugType" uri="http://localhost:63342/mystic-tech/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.mystic-tech" />
+      <item itemvalue="npm.run" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e60d9a4b-e5de-4c65-9567-8178d78f4a4f" name="Default Changelist" comment="" />
+      <created>1594215495053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594215495053</updated>
+      <workItem from="1594215496826" duration="2298000" />
+      <workItem from="1594272898369" duration="7385000" />
+      <workItem from="1594297275247" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594297299014">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1307.741/1366.0.1920.1080@59.27.1307.741" timestamp="1594216328497" />
+    <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1307.741@59.27.1307.741" timestamp="1594297299014" />
+    <state x="381" y="70" width="662" height="653" key="#run" timestamp="1594215603201">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="381" y="70" width="662" height="653" key="#run/59.27.1307.741/1366.0.1920.1080@59.27.1307.741" timestamp="1594215603201" />
+    <state x="495" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1594216326681">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="495" y="154" width="424" height="484" key="FileChooserDialogImpl/59.27.1307.741/1366.0.1920.1080@59.27.1307.741" timestamp="1594216326681" />
+    <state width="1284" height="193" key="GridCell.Tab.0.bottom" timestamp="1594297439986">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1594297439986" />
+    <state width="1284" height="193" key="GridCell.Tab.0.center" timestamp="1594297439985">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1594297439985" />
+    <state width="1284" height="193" key="GridCell.Tab.0.left" timestamp="1594297439985">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1594297439985" />
+    <state width="1284" height="193" key="GridCell.Tab.0.right" timestamp="1594297439985">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1594297439985" />
+    <state width="1284" height="193" key="GridCell.Tab.1.bottom" timestamp="1594297439987">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.1.bottom/59.27.1307.741@59.27.1307.741" timestamp="1594297439987" />
+    <state width="1284" height="193" key="GridCell.Tab.1.center" timestamp="1594297439986">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.1.center/59.27.1307.741@59.27.1307.741" timestamp="1594297439986" />
+    <state width="1284" height="193" key="GridCell.Tab.1.left" timestamp="1594297439986">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.1.left/59.27.1307.741@59.27.1307.741" timestamp="1594297439986" />
+    <state width="1284" height="193" key="GridCell.Tab.1.right" timestamp="1594297439987">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.1.right/59.27.1307.741@59.27.1307.741" timestamp="1594297439987" />
+    <state width="1284" height="193" key="GridCell.Tab.2.bottom" timestamp="1594297439988">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.2.bottom/59.27.1307.741@59.27.1307.741" timestamp="1594297439988" />
+    <state width="1284" height="193" key="GridCell.Tab.2.center" timestamp="1594297439988">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.2.center/59.27.1307.741@59.27.1307.741" timestamp="1594297439988" />
+    <state width="1284" height="193" key="GridCell.Tab.2.left" timestamp="1594297439988">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.2.left/59.27.1307.741@59.27.1307.741" timestamp="1594297439988" />
+    <state width="1284" height="193" key="GridCell.Tab.2.right" timestamp="1594297439988">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="193" key="GridCell.Tab.2.right/59.27.1307.741@59.27.1307.741" timestamp="1594297439988" />
+    <state x="201" y="31" key="SettingsEditor" timestamp="1594297465373">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="201" y="31" key="SettingsEditor/59.27.1307.741@59.27.1307.741" timestamp="1594297465373" />
+  </component>
+</project>
