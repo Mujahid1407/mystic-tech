@@ -1,13 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e60d9a4b-e5de-4c65-9567-8178d78f4a4f" name="Default Changelist" comment="" />
+    <list default="true" id="e60d9a4b-e5de-4c65-9567-8178d78f4a4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Version/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Version/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/lineicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/odometer.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Blackd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Boldd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Lightd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Medium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/CocogooseClassic-Mediumd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/LineIcons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/LineIcons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/LineIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/LineIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/LineIcons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ico/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brand01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brand02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brand03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brands-images/860_by_1000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brands-images/custom_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brands-images/docScan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brands-images/knifemaster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brands-images/side-contact-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brands-images/tailorie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/header-pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-counter01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-counter02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-counter03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-phones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/Path 411@1X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/SEO and ASO@1X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/Social Media Marketing@1X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/UiUx and graphic@1X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/Web Backend@1X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon/web front@1X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-box02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/map-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/side-contact-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/side-image01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/step-image01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/step-image02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/step-image03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/synares-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/Artboard – 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/Artboard – 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/Artboard – 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/Artboard – 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/Artboard – 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/isotope.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.stellar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/odometer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/popper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/privacy-policy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/video01.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/CEO.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/Front-end-Developer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/all-develop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/android.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/c-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/c-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/c-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/ceo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/cta-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/cta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/device.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/features-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/features.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/front-end-developer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/headpiece.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/ios.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/moderndesign2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/sub-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img/welcome-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/ins-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/ins-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/ins-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/ins-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/ins-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/ins-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/lb-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/lb-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/lb-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-img/lb-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients-img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients-img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients-img/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients-img/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clients-img/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/alarm-clock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/all develop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/atomic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/breadcumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/gamepad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/photo-camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/presentation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/safebox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/search-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/settings-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/trophy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/video-camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/core-img/work-progress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-img/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.2.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/map-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ePFoREKvyl1TmIW01c5s1mCy2I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,18 +222,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/bg-img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/bg-img" />
-      <recent name="$PROJECT_DIR$/img/core-img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/team" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/ico" />
+      <recent name="$PROJECT_DIR$/images/brands-images" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.mystic-tech">
-    <configuration name="mystic-tech" type="JavascriptDebugType" uri="http://localhost:63342/mystic-tech/index.html" useBuiltInWebServerPort="true">
+    <configuration name="mystic-tech" type="JavascriptDebugType" uri="http://localhost:63342/Synares System/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
@@ -54,7 +264,18 @@
       <updated>1594215495053</updated>
       <workItem from="1594215496826" duration="2298000" />
       <workItem from="1594272898369" duration="7385000" />
-      <workItem from="1594297275247" duration="618000" />
+      <workItem from="1594297275247" duration="1556000" />
+      <workItem from="1595241122406" duration="2402000" />
+      <workItem from="1595306244420" duration="1000" />
+      <workItem from="1595399553270" duration="2249000" />
+      <workItem from="1595488484648" duration="18666000" />
+      <workItem from="1595829320968" duration="10319000" />
+      <workItem from="1595920953469" duration="6741000" />
+      <workItem from="1595931468271" duration="7715000" />
+      <workItem from="1595948158455" duration="2220000" />
+      <workItem from="1595950802378" duration="4376000" />
+      <workItem from="1596003409438" duration="7081000" />
+      <workItem from="1596031959218" duration="191000" />
     </task>
     <servers />
   </component>
@@ -62,11 +283,15 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594297299014">
+    <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596032149692">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
     <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1307.741/1366.0.1920.1080@59.27.1307.741" timestamp="1594216328497" />
-    <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1307.741@59.27.1307.741" timestamp="1594297299014" />
+    <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1307.741@59.27.1307.741" timestamp="1596032149692" />
+    <state x="445" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595952049582">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="445" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/59.27.1307.741@59.27.1307.741" timestamp="1595952049582" />
     <state x="381" y="70" width="662" height="653" key="#run" timestamp="1594215603201">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
@@ -75,54 +300,54 @@
       <screen x="59" y="27" width="1307" height="741" />
     </state>
     <state x="495" y="154" width="424" height="484" key="FileChooserDialogImpl/59.27.1307.741/1366.0.1920.1080@59.27.1307.741" timestamp="1594216326681" />
-    <state width="1284" height="193" key="GridCell.Tab.0.bottom" timestamp="1594297439986">
+    <state width="1284" height="183" key="GridCell.Tab.0.bottom" timestamp="1596032173592">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1594297439986" />
-    <state width="1284" height="193" key="GridCell.Tab.0.center" timestamp="1594297439985">
+    <state width="1284" height="183" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1596032173592" />
+    <state width="1284" height="183" key="GridCell.Tab.0.center" timestamp="1596032173591">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1594297439985" />
-    <state width="1284" height="193" key="GridCell.Tab.0.left" timestamp="1594297439985">
+    <state width="1284" height="183" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1596032173591" />
+    <state width="1284" height="183" key="GridCell.Tab.0.left" timestamp="1596032173591">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1594297439985" />
-    <state width="1284" height="193" key="GridCell.Tab.0.right" timestamp="1594297439985">
+    <state width="1284" height="183" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1596032173591" />
+    <state width="1284" height="183" key="GridCell.Tab.0.right" timestamp="1596032173592">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1594297439985" />
-    <state width="1284" height="193" key="GridCell.Tab.1.bottom" timestamp="1594297439987">
+    <state width="1284" height="183" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1596032173592" />
+    <state width="1284" height="183" key="GridCell.Tab.1.bottom" timestamp="1596032173593">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.1.bottom/59.27.1307.741@59.27.1307.741" timestamp="1594297439987" />
-    <state width="1284" height="193" key="GridCell.Tab.1.center" timestamp="1594297439986">
+    <state width="1284" height="183" key="GridCell.Tab.1.bottom/59.27.1307.741@59.27.1307.741" timestamp="1596032173593" />
+    <state width="1284" height="183" key="GridCell.Tab.1.center" timestamp="1596032173592">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.1.center/59.27.1307.741@59.27.1307.741" timestamp="1594297439986" />
-    <state width="1284" height="193" key="GridCell.Tab.1.left" timestamp="1594297439986">
+    <state width="1284" height="183" key="GridCell.Tab.1.center/59.27.1307.741@59.27.1307.741" timestamp="1596032173592" />
+    <state width="1284" height="183" key="GridCell.Tab.1.left" timestamp="1596032173592">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.1.left/59.27.1307.741@59.27.1307.741" timestamp="1594297439986" />
-    <state width="1284" height="193" key="GridCell.Tab.1.right" timestamp="1594297439987">
+    <state width="1284" height="183" key="GridCell.Tab.1.left/59.27.1307.741@59.27.1307.741" timestamp="1596032173592" />
+    <state width="1284" height="183" key="GridCell.Tab.1.right" timestamp="1596032173593">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.1.right/59.27.1307.741@59.27.1307.741" timestamp="1594297439987" />
-    <state width="1284" height="193" key="GridCell.Tab.2.bottom" timestamp="1594297439988">
+    <state width="1284" height="183" key="GridCell.Tab.1.right/59.27.1307.741@59.27.1307.741" timestamp="1596032173593" />
+    <state width="1284" height="183" key="GridCell.Tab.2.bottom" timestamp="1596032173594">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.2.bottom/59.27.1307.741@59.27.1307.741" timestamp="1594297439988" />
-    <state width="1284" height="193" key="GridCell.Tab.2.center" timestamp="1594297439988">
+    <state width="1284" height="183" key="GridCell.Tab.2.bottom/59.27.1307.741@59.27.1307.741" timestamp="1596032173594" />
+    <state width="1284" height="183" key="GridCell.Tab.2.center" timestamp="1596032173594">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.2.center/59.27.1307.741@59.27.1307.741" timestamp="1594297439988" />
-    <state width="1284" height="193" key="GridCell.Tab.2.left" timestamp="1594297439988">
+    <state width="1284" height="183" key="GridCell.Tab.2.center/59.27.1307.741@59.27.1307.741" timestamp="1596032173594" />
+    <state width="1284" height="183" key="GridCell.Tab.2.left" timestamp="1596032173593">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.2.left/59.27.1307.741@59.27.1307.741" timestamp="1594297439988" />
-    <state width="1284" height="193" key="GridCell.Tab.2.right" timestamp="1594297439988">
+    <state width="1284" height="183" key="GridCell.Tab.2.left/59.27.1307.741@59.27.1307.741" timestamp="1596032173593" />
+    <state width="1284" height="183" key="GridCell.Tab.2.right" timestamp="1596032173594">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="193" key="GridCell.Tab.2.right/59.27.1307.741@59.27.1307.741" timestamp="1594297439988" />
+    <state width="1284" height="183" key="GridCell.Tab.2.right/59.27.1307.741@59.27.1307.741" timestamp="1596032173594" />
     <state x="201" y="31" key="SettingsEditor" timestamp="1594297465373">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
