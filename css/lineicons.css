@@ -15,7 +15,27 @@ Author: lineicons.com
 	base class definition
 -------------------------*/
 .lni {
+  color: #fee13e;
+  display: inline-block;
+  font: normal normal normal 1em/1 'LineIcons';
+  speak: none;
+  text-transform: none;
+  /* Better Font Rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.lin {
   color: #111517;
+  display: inline-block;
+  font: normal normal normal 1em/1 'LineIcons';
+  speak: none;
+  text-transform: none;
+  /* Better Font Rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.lini {
+  color: #ffffff;
   display: inline-block;
   font: normal normal normal 1em/1 'LineIcons';
   speak: none;
